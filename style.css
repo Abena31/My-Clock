@@ -91,7 +91,7 @@ body {
   left: 42.5%;
 }
 
-.minute-hand-wrapper {
+.minute-hand-cover {
   width: 400px;
   height: 400px;
   position: absolute;
@@ -122,7 +122,7 @@ body {
   top: -7px;
 }
 
-.hour-hand-wrapper {
+.hour-hand-wrap {
   width: 300px;
   height: 300px;
   position: absolute;
@@ -153,7 +153,7 @@ body {
   top: -7px;
 }
 
-.second-hand-wrapper {
+.second-hand-shield {
   width: 350px;
   height: 350px;
   position: absolute;
